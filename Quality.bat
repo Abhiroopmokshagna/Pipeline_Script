@@ -1,0 +1,1 @@
+echo "Checking quality of the project. %time% : %date%"
